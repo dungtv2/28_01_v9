@@ -19,6 +19,6 @@
     'application': False,
     'qweb': ['static/src/xml/listview_button_view.xml'],
     'images': [
-        'images/4.jpg',
+        'images/dynamic_list_v9.png',
     ],
 }
